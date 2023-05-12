@@ -1,5 +1,6 @@
 
 .anchor
+.prettierignore
 .DS_Store
 target
 **/*.rs.bk
